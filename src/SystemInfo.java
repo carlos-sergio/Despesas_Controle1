@@ -1,5 +1,3 @@
-package EX_SECAO10;
-
 import com.sun.management.OperatingSystemMXBean;
 import java.io.File;
 import java.lang.management.ManagementFactory;
